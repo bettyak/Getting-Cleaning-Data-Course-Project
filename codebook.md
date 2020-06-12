@@ -25,11 +25,16 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 These measurements are labeled:
- "timeBodyAccelerometer-mean()-X"                 "timeBodyAccelerometer-mean()-Y"                
- "timeBodyAccelerometer-mean()-Z"                 "timeBodyAccelerometer-std()-X"                 
- "timeBodyAccelerometer-std()-Y"                  "timeBodyAccelerometer-std()-Z"                 
- "timeGravityAccelerometer-mean()-X"              "timeGravityAccelerometer-mean()-Y"             
- "timeGravityAccelerometer-mean()-Z"              "timeGravityAccelerometer-std()-X"              
+ "timeBodyAccelerometer-mean()-X"                 
+ "timeBodyAccelerometer-mean()-Y"                
+ "timeBodyAccelerometer-mean()-Z"                
+ "timeBodyAccelerometer-std()-X"                 
+ "timeBodyAccelerometer-std()-Y"                  
+ "timeBodyAccelerometer-std()-Z"                 
+ "timeGravityAccelerometer-mean()-X"              
+ "timeGravityAccelerometer-mean()-Y"             
+ "timeGravityAccelerometer-mean()-Z"              
+ "timeGravityAccelerometer-std()-X"              
  "timeGravityAccelerometer-std()-Y"               
  "timeGravityAccelerometer-std()-Z"              
  "timeBodyAccelerometerJerk-mean()-X"             
@@ -86,3 +91,8 @@ These measurements are labeled:
  "frequencyBodyGyroscopeMagnitude-std()"         
  "frequencyBodyGyroscopeJerkMagnitude-mean()"     
  "frequencyBodyGyroscopeJerkMagnitude-std()" 
+
+
+The data used in this project is derived from:
+
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
